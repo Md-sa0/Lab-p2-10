@@ -1,7 +1,7 @@
 # Laboratório 10: O Pipeline Definitivo
 ## RAG + QLoRA + FlashAttention-2 + KV Cache
 
-> **Partes deste laboratório foram geradas/complementadas com IA, revisadas e validadas por [Seu Nome]**
+> **Partes deste laboratório foram geradas/complementadas com IA, revisadas e validadas por Marcus David**
 
 ---
 
